@@ -8,6 +8,7 @@ build/
 assemblies/Assembly-CSharp.dll
 assemblies/UnityEngine.dll
 assemblies/UnityEngine.UI.dll
+assemblies/LitJson.dll
 
 # User-specific files
 *.suo
